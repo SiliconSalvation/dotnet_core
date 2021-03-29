@@ -1,0 +1,16 @@
+/home/kazuma/dotnet/code/chapter01/hellocs/bin/Debug/net5.0/hellocs
+/home/kazuma/dotnet/code/chapter01/hellocs/bin/Debug/net5.0/hellocs.deps.json
+/home/kazuma/dotnet/code/chapter01/hellocs/bin/Debug/net5.0/hellocs.runtimeconfig.json
+/home/kazuma/dotnet/code/chapter01/hellocs/bin/Debug/net5.0/hellocs.runtimeconfig.dev.json
+/home/kazuma/dotnet/code/chapter01/hellocs/bin/Debug/net5.0/hellocs.dll
+/home/kazuma/dotnet/code/chapter01/hellocs/bin/Debug/net5.0/ref/hellocs.dll
+/home/kazuma/dotnet/code/chapter01/hellocs/bin/Debug/net5.0/hellocs.pdb
+/home/kazuma/dotnet/code/chapter01/hellocs/obj/Debug/net5.0/hellocs.csprojAssemblyReference.cache
+/home/kazuma/dotnet/code/chapter01/hellocs/obj/Debug/net5.0/hellocs.GeneratedMSBuildEditorConfig.editorconfig
+/home/kazuma/dotnet/code/chapter01/hellocs/obj/Debug/net5.0/hellocs.AssemblyInfoInputs.cache
+/home/kazuma/dotnet/code/chapter01/hellocs/obj/Debug/net5.0/hellocs.AssemblyInfo.cs
+/home/kazuma/dotnet/code/chapter01/hellocs/obj/Debug/net5.0/hellocs.csproj.CoreCompileInputs.cache
+/home/kazuma/dotnet/code/chapter01/hellocs/obj/Debug/net5.0/hellocs.dll
+/home/kazuma/dotnet/code/chapter01/hellocs/obj/Debug/net5.0/ref/hellocs.dll
+/home/kazuma/dotnet/code/chapter01/hellocs/obj/Debug/net5.0/hellocs.pdb
+/home/kazuma/dotnet/code/chapter01/hellocs/obj/Debug/net5.0/hellocs.genruntimeconfig.cache
