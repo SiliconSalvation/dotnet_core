@@ -1,0 +1,16 @@
+/home/kazuma/dotnet/code/chapter02/basics/bin/Debug/net5.0/basics
+/home/kazuma/dotnet/code/chapter02/basics/bin/Debug/net5.0/basics.deps.json
+/home/kazuma/dotnet/code/chapter02/basics/bin/Debug/net5.0/basics.runtimeconfig.json
+/home/kazuma/dotnet/code/chapter02/basics/bin/Debug/net5.0/basics.runtimeconfig.dev.json
+/home/kazuma/dotnet/code/chapter02/basics/bin/Debug/net5.0/basics.dll
+/home/kazuma/dotnet/code/chapter02/basics/bin/Debug/net5.0/ref/basics.dll
+/home/kazuma/dotnet/code/chapter02/basics/bin/Debug/net5.0/basics.pdb
+/home/kazuma/dotnet/code/chapter02/basics/obj/Debug/net5.0/basics.csprojAssemblyReference.cache
+/home/kazuma/dotnet/code/chapter02/basics/obj/Debug/net5.0/basics.GeneratedMSBuildEditorConfig.editorconfig
+/home/kazuma/dotnet/code/chapter02/basics/obj/Debug/net5.0/basics.AssemblyInfoInputs.cache
+/home/kazuma/dotnet/code/chapter02/basics/obj/Debug/net5.0/basics.AssemblyInfo.cs
+/home/kazuma/dotnet/code/chapter02/basics/obj/Debug/net5.0/basics.csproj.CoreCompileInputs.cache
+/home/kazuma/dotnet/code/chapter02/basics/obj/Debug/net5.0/basics.dll
+/home/kazuma/dotnet/code/chapter02/basics/obj/Debug/net5.0/ref/basics.dll
+/home/kazuma/dotnet/code/chapter02/basics/obj/Debug/net5.0/basics.pdb
+/home/kazuma/dotnet/code/chapter02/basics/obj/Debug/net5.0/basics.genruntimeconfig.cache
