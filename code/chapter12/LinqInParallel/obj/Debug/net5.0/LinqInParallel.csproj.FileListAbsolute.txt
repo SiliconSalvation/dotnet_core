@@ -1,0 +1,16 @@
+/home/kazuma/dotnet/code/chapter12/LinqInParallel/bin/Debug/net5.0/LinqInParallel
+/home/kazuma/dotnet/code/chapter12/LinqInParallel/bin/Debug/net5.0/LinqInParallel.deps.json
+/home/kazuma/dotnet/code/chapter12/LinqInParallel/bin/Debug/net5.0/LinqInParallel.runtimeconfig.json
+/home/kazuma/dotnet/code/chapter12/LinqInParallel/bin/Debug/net5.0/LinqInParallel.runtimeconfig.dev.json
+/home/kazuma/dotnet/code/chapter12/LinqInParallel/bin/Debug/net5.0/LinqInParallel.dll
+/home/kazuma/dotnet/code/chapter12/LinqInParallel/bin/Debug/net5.0/ref/LinqInParallel.dll
+/home/kazuma/dotnet/code/chapter12/LinqInParallel/bin/Debug/net5.0/LinqInParallel.pdb
+/home/kazuma/dotnet/code/chapter12/LinqInParallel/obj/Debug/net5.0/LinqInParallel.csprojAssemblyReference.cache
+/home/kazuma/dotnet/code/chapter12/LinqInParallel/obj/Debug/net5.0/LinqInParallel.GeneratedMSBuildEditorConfig.editorconfig
+/home/kazuma/dotnet/code/chapter12/LinqInParallel/obj/Debug/net5.0/LinqInParallel.AssemblyInfoInputs.cache
+/home/kazuma/dotnet/code/chapter12/LinqInParallel/obj/Debug/net5.0/LinqInParallel.AssemblyInfo.cs
+/home/kazuma/dotnet/code/chapter12/LinqInParallel/obj/Debug/net5.0/LinqInParallel.csproj.CoreCompileInputs.cache
+/home/kazuma/dotnet/code/chapter12/LinqInParallel/obj/Debug/net5.0/LinqInParallel.dll
+/home/kazuma/dotnet/code/chapter12/LinqInParallel/obj/Debug/net5.0/ref/LinqInParallel.dll
+/home/kazuma/dotnet/code/chapter12/LinqInParallel/obj/Debug/net5.0/LinqInParallel.pdb
+/home/kazuma/dotnet/code/chapter12/LinqInParallel/obj/Debug/net5.0/LinqInParallel.genruntimeconfig.cache

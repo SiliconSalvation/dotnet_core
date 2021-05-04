@@ -1,0 +1,16 @@
+/home/kazuma/dotnet/code/chapter12/bin/Debug/net5.0/chapter12
+/home/kazuma/dotnet/code/chapter12/bin/Debug/net5.0/chapter12.deps.json
+/home/kazuma/dotnet/code/chapter12/bin/Debug/net5.0/chapter12.runtimeconfig.json
+/home/kazuma/dotnet/code/chapter12/bin/Debug/net5.0/chapter12.runtimeconfig.dev.json
+/home/kazuma/dotnet/code/chapter12/bin/Debug/net5.0/chapter12.dll
+/home/kazuma/dotnet/code/chapter12/bin/Debug/net5.0/ref/chapter12.dll
+/home/kazuma/dotnet/code/chapter12/bin/Debug/net5.0/chapter12.pdb
+/home/kazuma/dotnet/code/chapter12/obj/Debug/net5.0/chapter12.csprojAssemblyReference.cache
+/home/kazuma/dotnet/code/chapter12/obj/Debug/net5.0/chapter12.GeneratedMSBuildEditorConfig.editorconfig
+/home/kazuma/dotnet/code/chapter12/obj/Debug/net5.0/chapter12.AssemblyInfoInputs.cache
+/home/kazuma/dotnet/code/chapter12/obj/Debug/net5.0/chapter12.AssemblyInfo.cs
+/home/kazuma/dotnet/code/chapter12/obj/Debug/net5.0/chapter12.csproj.CoreCompileInputs.cache
+/home/kazuma/dotnet/code/chapter12/obj/Debug/net5.0/chapter12.dll
+/home/kazuma/dotnet/code/chapter12/obj/Debug/net5.0/ref/chapter12.dll
+/home/kazuma/dotnet/code/chapter12/obj/Debug/net5.0/chapter12.pdb
+/home/kazuma/dotnet/code/chapter12/obj/Debug/net5.0/chapter12.genruntimeconfig.cache
