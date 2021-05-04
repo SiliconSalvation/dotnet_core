@@ -1,0 +1,12 @@
+/home/kazuma/dotnet/code/chapter13/MonitoringLib/bin/Debug/net5.0/MonitoringLib.deps.json
+/home/kazuma/dotnet/code/chapter13/MonitoringLib/bin/Debug/net5.0/MonitoringLib.dll
+/home/kazuma/dotnet/code/chapter13/MonitoringLib/bin/Debug/net5.0/ref/MonitoringLib.dll
+/home/kazuma/dotnet/code/chapter13/MonitoringLib/bin/Debug/net5.0/MonitoringLib.pdb
+/home/kazuma/dotnet/code/chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.csprojAssemblyReference.cache
+/home/kazuma/dotnet/code/chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/kazuma/dotnet/code/chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.AssemblyInfoInputs.cache
+/home/kazuma/dotnet/code/chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.AssemblyInfo.cs
+/home/kazuma/dotnet/code/chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.csproj.CoreCompileInputs.cache
+/home/kazuma/dotnet/code/chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.dll
+/home/kazuma/dotnet/code/chapter13/MonitoringLib/obj/Debug/net5.0/ref/MonitoringLib.dll
+/home/kazuma/dotnet/code/chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.pdb

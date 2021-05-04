@@ -1,0 +1,16 @@
+/home/kazuma/dotnet/code/chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.csprojAssemblyReference.cache
+/home/kazuma/dotnet/code/chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/kazuma/dotnet/code/chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.AssemblyInfoInputs.cache
+/home/kazuma/dotnet/code/chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.AssemblyInfo.cs
+/home/kazuma/dotnet/code/chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.csproj.CoreCompileInputs.cache
+/home/kazuma/dotnet/code/chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole
+/home/kazuma/dotnet/code/chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole.deps.json
+/home/kazuma/dotnet/code/chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole.runtimeconfig.json
+/home/kazuma/dotnet/code/chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole.runtimeconfig.dev.json
+/home/kazuma/dotnet/code/chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole.dll
+/home/kazuma/dotnet/code/chapter13/AsyncConsole/bin/Debug/net5.0/ref/AsyncConsole.dll
+/home/kazuma/dotnet/code/chapter13/AsyncConsole/bin/Debug/net5.0/AsyncConsole.pdb
+/home/kazuma/dotnet/code/chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.dll
+/home/kazuma/dotnet/code/chapter13/AsyncConsole/obj/Debug/net5.0/ref/AsyncConsole.dll
+/home/kazuma/dotnet/code/chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.pdb
+/home/kazuma/dotnet/code/chapter13/AsyncConsole/obj/Debug/net5.0/AsyncConsole.genruntimeconfig.cache

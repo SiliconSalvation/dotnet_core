@@ -1,0 +1,16 @@
+/home/kazuma/dotnet/code/chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks
+/home/kazuma/dotnet/code/chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.deps.json
+/home/kazuma/dotnet/code/chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.runtimeconfig.json
+/home/kazuma/dotnet/code/chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.runtimeconfig.dev.json
+/home/kazuma/dotnet/code/chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.dll
+/home/kazuma/dotnet/code/chapter13/NestedAndChildTasks/bin/Debug/net5.0/ref/NestedAndChildTasks.dll
+/home/kazuma/dotnet/code/chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.pdb
+/home/kazuma/dotnet/code/chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.csprojAssemblyReference.cache
+/home/kazuma/dotnet/code/chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+/home/kazuma/dotnet/code/chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.AssemblyInfoInputs.cache
+/home/kazuma/dotnet/code/chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.AssemblyInfo.cs
+/home/kazuma/dotnet/code/chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.csproj.CoreCompileInputs.cache
+/home/kazuma/dotnet/code/chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.dll
+/home/kazuma/dotnet/code/chapter13/NestedAndChildTasks/obj/Debug/net5.0/ref/NestedAndChildTasks.dll
+/home/kazuma/dotnet/code/chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.pdb
+/home/kazuma/dotnet/code/chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.genruntimeconfig.cache

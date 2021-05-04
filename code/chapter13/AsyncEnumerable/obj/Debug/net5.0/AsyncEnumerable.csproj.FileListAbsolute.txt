@@ -1,0 +1,16 @@
+/home/kazuma/dotnet/code/chapter13/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.csprojAssemblyReference.cache
+/home/kazuma/dotnet/code/chapter13/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+/home/kazuma/dotnet/code/chapter13/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.AssemblyInfoInputs.cache
+/home/kazuma/dotnet/code/chapter13/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.AssemblyInfo.cs
+/home/kazuma/dotnet/code/chapter13/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.csproj.CoreCompileInputs.cache
+/home/kazuma/dotnet/code/chapter13/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable
+/home/kazuma/dotnet/code/chapter13/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable.deps.json
+/home/kazuma/dotnet/code/chapter13/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable.runtimeconfig.json
+/home/kazuma/dotnet/code/chapter13/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable.runtimeconfig.dev.json
+/home/kazuma/dotnet/code/chapter13/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable.dll
+/home/kazuma/dotnet/code/chapter13/AsyncEnumerable/bin/Debug/net5.0/ref/AsyncEnumerable.dll
+/home/kazuma/dotnet/code/chapter13/AsyncEnumerable/bin/Debug/net5.0/AsyncEnumerable.pdb
+/home/kazuma/dotnet/code/chapter13/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.dll
+/home/kazuma/dotnet/code/chapter13/AsyncEnumerable/obj/Debug/net5.0/ref/AsyncEnumerable.dll
+/home/kazuma/dotnet/code/chapter13/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.pdb
+/home/kazuma/dotnet/code/chapter13/AsyncEnumerable/obj/Debug/net5.0/AsyncEnumerable.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/kazuma/dotnet/code/chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks
+/home/kazuma/dotnet/code/chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.deps.json
+/home/kazuma/dotnet/code/chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.runtimeconfig.json
+/home/kazuma/dotnet/code/chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.runtimeconfig.dev.json
+/home/kazuma/dotnet/code/chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.dll
+/home/kazuma/dotnet/code/chapter13/WorkingWithTasks/bin/Debug/net5.0/ref/WorkingWithTasks.dll
+/home/kazuma/dotnet/code/chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.pdb
+/home/kazuma/dotnet/code/chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.csprojAssemblyReference.cache
+/home/kazuma/dotnet/code/chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+/home/kazuma/dotnet/code/chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.AssemblyInfoInputs.cache
+/home/kazuma/dotnet/code/chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.AssemblyInfo.cs
+/home/kazuma/dotnet/code/chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.csproj.CoreCompileInputs.cache
+/home/kazuma/dotnet/code/chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.dll
+/home/kazuma/dotnet/code/chapter13/WorkingWithTasks/obj/Debug/net5.0/ref/WorkingWithTasks.dll
+/home/kazuma/dotnet/code/chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.pdb
+/home/kazuma/dotnet/code/chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.genruntimeconfig.cache
