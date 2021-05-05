@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/NorthwindEmployees" Path="/home/kazuma/dotnet/code/PracticalApps/NorthwindEmployees/obj/Debug/net5.0/scopedcss/projectbundle/" />
+  <ContentRoot BasePath="_content/NorthwindEmployees" Path="/home/kazuma/dotnet/code/PracticalApps/NorthwindEmployees/wwwroot/" />
+  <ContentRoot BasePath="/" Path="/home/kazuma/dotnet/code/PracticalApps/NorthwindWeb/obj/Debug/net5.0/scopedcss/bundle/" />
+</StaticWebAssets>

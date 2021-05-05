@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9EX/S79fHjozfxDbmokJXtmpihTct/tkmg7gSLomiOk/HCoC273K95epKSTqwJU8ns8EyTHOoLcLum2V+9i2XA==",
+  "dgSpecHash": "bfFMP+m3h7s7CnKSflA+b09xfexenWJLMzBjZm5DrqwuBxkMaa3D3eu7W1TiiYFW2wuq31wY5iqatkdZa6wpQQ==",
   "success": true,
   "projectFilePath": "/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj",
   "expectedPackageFiles": [
@@ -29,17 +29,12 @@
     "/home/kazuma/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.2/sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
     "/home/kazuma/.nuget/packages/sqlitepclraw.core/2.0.2/sqlitepclraw.core.2.0.2.nupkg.sha512",
     "/home/kazuma/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.2/sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
-    "/home/kazuma/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.2/sqlitepclraw.provider.e_sqlite3.2.0.2.nupkg.sha512",
-    "/home/kazuma/.nuget/packages/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/home/kazuma/.nuget/packages/sqlitepclraw.provider.dynamic_cdecl/2.0.2/sqlitepclraw.provider.dynamic_cdecl.2.0.2.nupkg.sha512",
     "/home/kazuma/.nuget/packages/system.collections.immutable/1.7.0/system.collections.immutable.1.7.0.nupkg.sha512",
     "/home/kazuma/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "/home/kazuma/.nuget/packages/system.diagnostics.diagnosticsource/4.7.0/system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
     "/home/kazuma/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
-    "/home/kazuma/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/home/kazuma/.nuget/packages/system.runtime.compilerservices.unsafe/4.7.0/system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512",
-    "/home/kazuma/.nuget/packages/system.text.encodings.web/4.7.0/system.text.encodings.web.4.7.0.nupkg.sha512",
-    "/home/kazuma/.nuget/packages/system.text.json/4.7.0/system.text.json.4.7.0.nupkg.sha512",
-    "/home/kazuma/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+    "/home/kazuma/.nuget/packages/system.text.json/4.7.0/system.text.json.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

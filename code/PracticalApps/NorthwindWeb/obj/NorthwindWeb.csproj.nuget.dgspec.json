@@ -1,0 +1,243 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kazuma/dotnet/code/PracticalApps/NorthwindWeb/NorthwindWeb.csproj": {}
+  },
+  "projects": {
+    "/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj",
+        "projectName": "NorthwindContextLib",
+        "projectPath": "/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj",
+        "packagesPath": "/home/kazuma/.nuget/packages/",
+        "outputPath": "/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kazuma/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj": {
+                "projectPath": "/home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kazuma/dotnet/code/PracticalApps/NorthwindEmployees/NorthwindEmployees.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kazuma/dotnet/code/PracticalApps/NorthwindEmployees/NorthwindEmployees.csproj",
+        "projectName": "NorthwindEmployees",
+        "projectPath": "/home/kazuma/dotnet/code/PracticalApps/NorthwindEmployees/NorthwindEmployees.csproj",
+        "packagesPath": "/home/kazuma/.nuget/packages/",
+        "outputPath": "/home/kazuma/dotnet/code/PracticalApps/NorthwindEmployees/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kazuma/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj": {
+                "projectPath": "/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj",
+        "projectName": "NorthwindEntitiesLib",
+        "projectPath": "/home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj",
+        "packagesPath": "/home/kazuma/.nuget/packages/",
+        "outputPath": "/home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kazuma/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kazuma/dotnet/code/PracticalApps/NorthwindWeb/NorthwindWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kazuma/dotnet/code/PracticalApps/NorthwindWeb/NorthwindWeb.csproj",
+        "projectName": "NorthwindWeb",
+        "projectPath": "/home/kazuma/dotnet/code/PracticalApps/NorthwindWeb/NorthwindWeb.csproj",
+        "packagesPath": "/home/kazuma/.nuget/packages/",
+        "outputPath": "/home/kazuma/dotnet/code/PracticalApps/NorthwindWeb/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kazuma/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj": {
+                "projectPath": "/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/NorthwindContextLib.csproj"
+              },
+              "/home/kazuma/dotnet/code/PracticalApps/NorthwindEmployees/NorthwindEmployees.csproj": {
+                "projectPath": "/home/kazuma/dotnet/code/PracticalApps/NorthwindEmployees/NorthwindEmployees.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

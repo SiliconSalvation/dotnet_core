@@ -8,7 +8,15 @@
     },
     {
       "path": "NorthwindContextLib"
+    },
+    {
+      "path": "NorthwindWeb"
+    },
+    {
+      "path": "NorthwindEmployees"
     }
   ],
-  "settings": {}
+  "settings": {
+    "editor.acceptSuggestionOnCommitCharacter": false
+  }
 }
