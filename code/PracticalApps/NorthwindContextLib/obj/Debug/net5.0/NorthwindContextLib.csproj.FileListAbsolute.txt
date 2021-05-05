@@ -1,0 +1,15 @@
+/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/NorthwindContextLib.deps.json
+/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/NorthwindContextLib.dll
+/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/ref/NorthwindContextLib.dll
+/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/NorthwindContextLib.pdb
+/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/NorthwindEntitiesLib.dll
+/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/bin/Debug/net5.0/NorthwindEntitiesLib.pdb
+/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.csprojAssemblyReference.cache
+/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.AssemblyInfoInputs.cache
+/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.AssemblyInfo.cs
+/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.csproj.CoreCompileInputs.cache
+/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.csproj.CopyComplete
+/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.dll
+/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/ref/NorthwindContextLib.dll
+/home/kazuma/dotnet/code/PracticalApps/NorthwindContextLib/obj/Debug/net5.0/NorthwindContextLib.pdb

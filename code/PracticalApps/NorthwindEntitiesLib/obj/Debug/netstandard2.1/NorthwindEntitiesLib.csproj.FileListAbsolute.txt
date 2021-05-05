@@ -1,0 +1,9 @@
+/home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/bin/Debug/netstandard2.1/NorthwindEntitiesLib.deps.json
+/home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/bin/Debug/netstandard2.1/NorthwindEntitiesLib.dll
+/home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/bin/Debug/netstandard2.1/NorthwindEntitiesLib.pdb
+/home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.1/NorthwindEntitiesLib.csprojAssemblyReference.cache
+/home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.1/NorthwindEntitiesLib.AssemblyInfoInputs.cache
+/home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.1/NorthwindEntitiesLib.AssemblyInfo.cs
+/home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.1/NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+/home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.1/NorthwindEntitiesLib.dll
+/home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/obj/Debug/netstandard2.1/NorthwindEntitiesLib.pdb
