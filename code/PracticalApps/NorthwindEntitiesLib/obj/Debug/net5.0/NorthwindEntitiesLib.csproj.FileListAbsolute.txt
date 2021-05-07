@@ -2,7 +2,6 @@
 /home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/bin/Debug/net5.0/NorthwindEntitiesLib.dll
 /home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/bin/Debug/net5.0/ref/NorthwindEntitiesLib.dll
 /home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/bin/Debug/net5.0/NorthwindEntitiesLib.pdb
-/home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/obj/Debug/net5.0/NorthwindEntitiesLib.csprojAssemblyReference.cache
 /home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/obj/Debug/net5.0/NorthwindEntitiesLib.GeneratedMSBuildEditorConfig.editorconfig
 /home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/obj/Debug/net5.0/NorthwindEntitiesLib.AssemblyInfoInputs.cache
 /home/kazuma/dotnet/code/PracticalApps/NorthwindEntitiesLib/obj/Debug/net5.0/NorthwindEntitiesLib.AssemblyInfo.cs
